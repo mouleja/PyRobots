@@ -338,3 +338,6 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/build/robots_v1
+/dist/robots_v1
+/robots_v1.spec
