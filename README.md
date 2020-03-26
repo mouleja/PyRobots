@@ -18,4 +18,5 @@ z x c /
 s = stay in place one turn
 t = teleport to safe location
 g = toggle map grid
+<esc> = quit game
 ```
